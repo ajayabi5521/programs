@@ -1,0 +1,52 @@
+Name : D.Ajay
+Father's Name : Durai
+Age : 20
+Gender : Male
+Skills :
+	-communication
+	-Colabration
+	-Leader ships
+	-Adaptive
+Your Location : Mayiladuthurai
+Address : 3/176 Sivan kovil street,NO 2.Kadalangudi
+-----------------------------------------------------------------
+Name : 
+Father's Name : 
+Age : 
+Gender : female
+Skills :
+Your Location : 
+Address : 
+-----------------------------------------------------------
+Name : 
+Father's Name : 
+Age : 
+Gender : female
+Skills :
+Your Location : 
+Address : 
+-----------------------------------------------------------
+Name : 
+Father's Name : 
+Age : 
+Gender : female
+Skills :
+Your Location : 
+Address : 
+-----------------------------------------------------------
+Name : 
+Father's Name : 
+Age : 
+Gender : female
+Skills :
+Your Location : 
+Address : 
+-----------------------------------------------------------
+Name : 
+Father's Name : 
+Age : 
+Gender : female
+Skills :
+Your Location : 
+Address : 
+-----------------------------------------------------------

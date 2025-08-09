@@ -1,0 +1,4 @@
+11	ajay	1000
+12	dhinesh	2400
+13	karthi	3500
+14	vijay	7059

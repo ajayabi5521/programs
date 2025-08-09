@@ -1,0 +1,4 @@
+ajay	20	aaa/ndhinesh	56	ppp/nkarthi	13	pppp/nRaja	25	pppp/nddd	43	myd/nvijay	17	kadalandudi
+Ajay	20	myd
+Dhinesh	21	malmedu
+kumar	29	karai

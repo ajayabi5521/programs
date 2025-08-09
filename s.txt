@@ -1,0 +1,1 @@
+Name : {e1.get()}Name : {e1.get()}Name : {e1.get()}Name : {e1.get()}Name : {e1.get()}Name : {e1.get()}Name : {e1.get()}Name : {e1.get()}Name : {e1.get()}Name : {e1.get()}Name : {e1.get()}Name : {e1.get()}Name : {e1.get()}
